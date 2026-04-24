@@ -21,7 +21,7 @@ body{
 
 .menu{
     background-color:#417aa8;
-    heiht:50px;
+    height:50px;
     line-height:50px;
     position:relative;
     width:90%
@@ -80,7 +80,7 @@ body{
     height:420px;
 }
 
-.undercor{
+.undecor{
     text-decoration:none;
 }
 
