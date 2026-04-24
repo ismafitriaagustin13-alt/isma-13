@@ -24,7 +24,7 @@ body{
     height:50px;
     line-height:50px;
     position:relative;
-    width:90%
+    width:90%;
     margin:0 auto;
     padding:0 auto;
 }
@@ -48,7 +48,7 @@ body{
 }
 
 .content{
-    width:90%
+    width:90%;
     margin:auto;
     height:420px;
     padding:0.1px;
@@ -73,7 +73,7 @@ body{
 }
 
 .kanan{
-    width:30%
+    width:30%;
     float:left;
     margin:auto;
     background:#fff;
